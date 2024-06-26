@@ -45,3 +45,5 @@ Recommends for you:
 - Keep your code clean, easy to read, and maintainable.
 - Write some tests for your code.
 - Using Docker Compose is a plus if you need to set up infrastructure.
+
+Your time is valuable, we know. Please aim to spend no more than 8 hours on this exercise in total and submit it within a week. If you have additional ideas to make the server more robust, feel free to share them in the README. We'd love to see them.
