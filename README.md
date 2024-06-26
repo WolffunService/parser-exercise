@@ -48,3 +48,7 @@ We recommend:
 - Using Docker Compose is a plus if you need to set up infrastructure.
 
 Your time is valuable, we know. Please aim to spend no more than 8 hours on this exercise in total and submit it within a week. If you have additional ideas to make the server more robust, feel free to share them in the README. We'd love to see them.
+
+----
+
+Kindly upload your completed code to a private repository on GitHub or GitLab. Once done, add https://github.com/qphuongl as a collaborator. After you've finished, please email your contact person to let them know.
