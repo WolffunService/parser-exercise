@@ -8,7 +8,7 @@ Finally, you’ll build a basic HTTP API to interact with the parser.
 
 ## 2. Task
 
-### HTTP Server
+### Server
 
 You need to implement a blockchain parser that can do the following:
 
