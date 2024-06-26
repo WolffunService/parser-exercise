@@ -35,12 +35,12 @@ This endpoint should return the list of transactions for a given subscribed addr
 
 ## 4. Recommendation
 
-Some rules you need to follow
+A few rules to follow:
 
 - Use version control to manage your code, preferably Git, with a README.md file for introduction or explanation.
 - Your application should run smoothly without any issues.
 
-Recommends for you:
+We recommend:
 
 - Keep your code clean, easy to read, and maintainable.
 - The architecture of the solution should be scalable.
