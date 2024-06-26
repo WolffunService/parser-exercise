@@ -43,6 +43,7 @@ Some rules you need to follow
 Recommends for you:
 
 - Keep your code clean, easy to read, and maintainable.
+- The architecture of the solution should be scalable.
 - Write some tests for your code.
 - Using Docker Compose is a plus if you need to set up infrastructure.
 
