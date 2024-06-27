@@ -51,4 +51,4 @@ Your time is valuable, we know. Please aim to spend no more than 8 hours on this
 
 ----
 
-Kindly upload your completed code to a private repository on GitHub or GitLab. Once done, add https://github.com/qphuongl as a collaborator. After you've finished, please email your contact person to let them know.
+Kindly upload your completed code to a private repository on GitHub. Once done, add https://github.com/qphuongl as a collaborator. After you've finished, please email your contact person to let them know.
