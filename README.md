@@ -2,9 +2,9 @@
 
 ## 1. Objective
 
-Your goal is to create a simple but functional blockchain parser using Go. This parser will interact with blockchain data by monitoring specific addresses and gathering transactions related to them. 
+Your goal is to create a simple but functional blockchain parser using Go. This parser will interact with blockchain data by monitoring specific addresses and gathering related transactions. Focus on the Ethereum blockchain (ETH) and use the JSON-RPC interface to interact with the network. You can connect to the Ethereum network through any public gateway. 
 
-Finally, you’ll build a basic HTTP API to interact with the parser.
+Finally, you'll build a basic HTTP API to interact with the parser.
 
 ## 2. Task
 
