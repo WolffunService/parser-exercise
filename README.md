@@ -13,7 +13,7 @@ Finally, you'll build a basic HTTP API to interact with the parser.
 You need to implement a blockchain parser that can do the following:
 
 1. Monitor Specified Addresses: The parser should take a list of blockchain addresses and keep an eye on them for any transactions.
-2. Collect Transactions: For each monitored address, the parser should gather all related transactions.
+2. Collect Transactions: For each monitored address, the parser should gather all related transactions starting from the subscribed date, without needing historical data.
 3. HTTP API Exposure: The parser should provide an HTTP API to interact with the gathered data. This API will let users check the current block number, subscribe to an address, and get transactions for subscribed addresses.
 
 ### Others
